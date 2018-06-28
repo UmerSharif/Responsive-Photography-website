@@ -1,4 +1,4 @@
-##Responsive-Photography-website
+## Responsive-Photography-website
 
 # Screenshot of the website
 
