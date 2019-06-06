@@ -1,6 +1,6 @@
 ## Responsive-Photography-website
 
-## [See the Live Project Here](https://peaceful-hermann-0a4578.netlify.com/)
+## [See the Live Project Here](https://bring-yourphotography.netlify.com/)
 
 ### Screenshot of the website
 
